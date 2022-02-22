@@ -1,0 +1,16 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 40%;
+    margin: auto;
+}
+.box2{
+    width: 20%;
+    margin:auto;
+}
